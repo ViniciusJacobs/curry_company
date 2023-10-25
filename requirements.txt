@@ -9,3 +9,4 @@ streamlit==1.27.2
 Pillow==9.4.0
 inflection==0.5.1
 seaborn==0.12.2
+IPython==8.12.0
